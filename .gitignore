@@ -2,3 +2,5 @@
 *.exe
 *.exe
 *.json
+*.o
+*.json
